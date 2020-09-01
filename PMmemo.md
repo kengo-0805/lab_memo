@@ -9,7 +9,7 @@
 - 目に見えない情報（温度や紫外線など）を対象物に対して付加できる
 - 対象物に直接映し出すことで直感的な理解がしやすい
 
-## プロジェクションマッピングが現在使われている例
+## プロジェクションマッピングが現在使われている例/従来研究
 - 新製品のPR
     - 車の内装イメージを投影するなど![bmw](https://insights.newscred.jp/wp-content/uploads/2018/10/thumbnail-629fd6dacbe470a0ba632aeccad2880c-1280x320.jpg)
     
@@ -25,7 +25,12 @@
      - Panasonicが開発中 
     
         https://biz.panasonic.com/jp-ja/products-services_vsa
+- ダイナミックプロジェクションマッピング
+    - 東京大学石川渡辺研究室
     
+        https://www.youtube.com/watch?v=-bh1MHuA5jU&feature=youtu.be
+        
+        http://ishikawa-vision.org/vision/index-j.html
 
 
 ## 検討中のアイデア
